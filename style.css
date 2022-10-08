@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+.sidebar {
+    background-color: #4c1d95;
+}
+
+.header {
+    background-color: #cfcfcf;
+}
+
+.content {
+    background-color: #ececec;
+}
+
+.upper-header img {
+    height: 40px;
+    width: 40px;
+}
+
+.odin-logo {
+    background-color: #4c1d95;
+}
